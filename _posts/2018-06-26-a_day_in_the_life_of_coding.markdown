@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "A Day in the Life of Coding"
-date:       2018-06-26 05:14:22 +0000
+date:       2018-06-26 01:14:23 -0400
 permalink:  a_day_in_the_life_of_coding
 ---
 
 
-This blogging thing isn't something I have done before, so if these first few seem odd it's all just part of my learning system. 
+This blogging thing isn't something I have done before, so if these first few seem odd it's all just part of my learning process. 
 
 I didn't realize how much coding effected how I do my job, or how any program I use at work relies on some form of code. In this technology driven world we live in most of our jobs (most of them) rely on computers in more than one way. I buy cars for a living, which is a weird concept I know, but it's how I make money. I won't go into the exact details of what my current job details but I do have to use computers the entire time. 
 
@@ -27,5 +27,5 @@ The code will have to filter every car based on
 9.5 Auction reports to support wholesale pricing
 10. Consumer Demand for the car of that fills in all of the previous filters
 
-And on and on it could go. But this code exist! It's like a real thing that allows my company to calculate the value of an persons car. In no way is the car industry an exact science, but this code that we use is amazing and complex. Now I don't have access to study the code we use for pricing, ever now and then with down time I pull up the source and look at what is behind the scenes of our programs we use. I'm still too green to coding to completely understand what I'm looking at as a whole but it's always exciting when I go to look at a part of the source I've seen before and realize I understand something I didn't the last time I looked at it. 
+And on and on it could go. But this code exist! It's a real thing that allows my company to calculate the value of a persons car. In no way is the car industry an exact science, but this code that we use is amazing and complex. Now I don't have access to study the code we use for pricing, but every now and then with down time I pull up the source and look at what is behind the scenes of our programs we use. I'm still too green to coding to completely understand what I'm looking at as a whole but it's always exciting when I go to look at a part of the source I've seen before and realize I understand something I didn't the last time I looked at it. 
 
